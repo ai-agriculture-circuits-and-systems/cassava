@@ -1,7 +1,7 @@
 # Cassava Leaf Disease Classification
 
 ## Overview
-This project focuses on developing a machine learning model to classify diseases in Cassava plants using leaf images. Cassava is a crucial food security crop in Africa, primarily grown by small-holder farmers. The goal is to help farmers quickly identify plant diseases to prevent crop loss and ensure food security.
+Cassava is a crucial food security crop in Africa, primarily grown by small-holder farmers. The goal is to help farmers quickly identify plant diseases to prevent crop loss and ensure food security.
 
 ## Dataset
 The dataset consists of leaf images from the Cassava plant, showing both healthy leaves and four different disease conditions:
@@ -57,10 +57,10 @@ This dataset is available through:
 - [Kaggle Competition](https://www.kaggle.com/c/cassava-disease/data)
 - [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/cassava)
 
-## License
-This project is licensed under the terms included in the LICENSE file.
-
 ## Acknowledgments
 - Dataset provided by the Cassava Disease Classification Challenge
 - TensorFlow Datasets for providing easy access to the dataset
 - Kaggle for hosting the competition and dataset
+
+## License
+This project is licensed under the terms included in the LICENSE file.
